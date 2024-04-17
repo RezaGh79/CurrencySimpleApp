@@ -1,2 +1,4 @@
-package com.andrew.cryptocurrencyapp.data.repository;public class CoinRepositoryImpl {
+package com.andrew.cryptocurrencyapp.data.repository;
+
+class CoinRepositoryImpl {
 }
